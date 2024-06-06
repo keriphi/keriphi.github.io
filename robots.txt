@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://keriphi.github.io/sitemap.html
+Sitemap: https://keriphi.github.io/app/sitemap.html
+Sitemap: https://keriphi.github.io/assets/sitemap.html
+Sitemap: https://keriphi.github.io/includes/sitemap.html
+Sitemap: https://keriphi.github.io/src/sitemap.html
